@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: org.bhankas
+testFramework: spock
+sourceLanguage: java
+buildTool: gradle
+features: [annotation-api, app-name, data, data-jdbc, flyway, github-workflow-ci, graalvm, gradle, h2, http-client, java, java-application, jdbc-hikari, logback, micronaut-aot, micronaut-build, netty-server, openapi, readme, serialization-jackson, shade, spock, swagger-ui, toml, toml-build]
